@@ -1,0 +1,7 @@
+streamlit==1.36.0
+pillow==10.3.0
+torch==2.5.1+cu118
+torchaudio==2.5.1+cu118
+torchvision==0.20.1+cu118
+python-dateutil==2.9.0.post0
+xgboost==2.1.0
